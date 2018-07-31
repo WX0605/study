@@ -1,4 +1,4 @@
-package com.torres.study.multiExtends.example3;
+package com.torres.study.multi_Extends.example3;
 
 public class Main {
     public static void main(String[] args) {

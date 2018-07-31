@@ -1,4 +1,4 @@
-package com.torres.study.multiExtends.example2;
+package com.torres.study.multi_Extends.example2;
 
 
 /**

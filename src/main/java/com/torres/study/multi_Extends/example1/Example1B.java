@@ -1,4 +1,4 @@
-package com.torres.study.multiExtends.example1;
+package com.torres.study.multi_Extends.example1;
 
 public interface Example1B {
     default String say(String name) {

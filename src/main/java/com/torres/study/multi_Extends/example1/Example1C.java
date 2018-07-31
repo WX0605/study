@@ -1,4 +1,4 @@
-package com.torres.study.multiExtends.example1;
+package com.torres.study.multi_Extends.example1;
 
 /**
  * 如果继承的接口中方法签名一致，则子类中必须重写该方法
