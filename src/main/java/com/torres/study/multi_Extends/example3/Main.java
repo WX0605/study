@@ -5,5 +5,6 @@ public class Main {
         Example3D d = new Example3D();
         byte a = 1;
         d.say(a); //B
+        d.hello();
     }
 }
